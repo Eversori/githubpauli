@@ -15,6 +15,7 @@ namespace WindowsFormsGitHubPauli
         public Form1()
         {
             InitializeComponent();
+            //Kommmant
         }
     }
 }
